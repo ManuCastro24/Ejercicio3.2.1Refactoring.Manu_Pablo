@@ -20,3 +20,6 @@ Ejercicio 4
 
 Crear una tabla bidimensional de tamaño 5x5 y rellenarla de la siguiente forma: la
 posición T[n,m] debe contener n+m. Después se debe mostrar su contenido.
+
+
+He modificado el ejercicio 1 que tenia mal definidas las variables y código desordenado.
